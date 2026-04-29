@@ -1,5 +1,5 @@
 // Конфигурация приложения VK
-const VK_APP_ID = 'ВАШ_APP_ID'; // Нужно заменить на свой!
+const VK_APP_ID = '54571106'; // Нужно заменить на свой!
 
 let accessToken = null;
 let userId = null;
